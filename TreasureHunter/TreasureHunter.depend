@@ -1,0 +1,271 @@
+# depslib dependency file v1.0
+1754878435 source:c:\users\denni\onedrive\imágenes\treasurehunter\main.cpp
+	"raylib.h"
+
+1754845849 c:\raylib\raylib\src\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1755484462 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\main.cpp
+	"game.hpp"
+	<cstring>
+
+1754920221 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\dijkstra.cpp
+
+1754882846 c:\users\denni\onedrive\imágenes\treasurehunter\include\dijkstra.hpp
+	"types.hpp"
+
+1754919916 c:\users\denni\onedrive\imágenes\treasurehunter\include\types.hpp
+	<raylib.h>
+	"config.hpp"
+
+1754919910 c:\users\denni\onedrive\imágenes\treasurehunter\include\config.hpp
+
+1754882841 c:\users\denni\onedrive\imágenes\treasurehunter\include\heap.hpp
+	"types.hpp"
+
+1754920283 c:\users\denni\onedrive\imágenes\treasurehunter\include\list.hpp
+
+1754924708 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\graph.cpp
+	"graph.hpp"
+
+1754932650 c:\users\denni\onedrive\imágenes\treasurehunter\include\graph.hpp
+	<limits>
+	<raylib.h>
+	<raymath.h>
+	"config.hpp"
+	"types.hpp"
+
+1754920231 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\heap.cpp
+
+1754920252 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\level.cpp
+
+1754920264 c:\users\denni\onedrive\imágenes\treasurehunter\include\level.hpp
+
+1754882794 c:\users\denni\onedrive\imágenes\treasurehunter\include\rng.hpp
+	<cstdlib>
+
+1754920241 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\list.cpp
+
+1754919965 c:\users\denni\onedrive\imágenes\treasurehunter\include\player.hpp
+	"types.hpp"
+
+1754920274 c:\users\denni\onedrive\imágenes\treasurehunter\include\rules.hpp
+
+1754942230 c:\users\denni\onedrive\imágenes\treasurehunter\include\ui.hpp
+	<raylib.h>
+	<raymath.h>
+	"types.hpp"
+	"graph.hpp"
+
+1754920309 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\player.cpp
+
+1754882883 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\rng.cpp
+	"rng.hpp"
+
+1754918534 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\rules.cpp
+	"rules.hpp"
+	"rng.hpp"
+	"level.hpp"
+
+1754944307 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\ui.cpp
+	"ui.hpp"
+
+1754845849 c:\raylib\raylib\src\raymath.h
+	<math.h>
+
+1755484900 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\game.cpp
+	"game.hpp"
+	"rng.hpp"
+
+1755491582 c:\users\denni\onedrive\imágenes\treasurehunter\include\game.hpp
+
+1755223335 source:c:\users\denni\onedrive\imágenes\treasurehunter\src\net.cpp
+	"net.hpp"
+	<cstring>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<sys/socket.h>
+	<unistd.h>
+	<netdb.h>
+
+1755187291 c:\users\denni\onedrive\imágenes\treasurehunter\include\net.hpp
+	<string>
+	<vector>
+	<thread>
+	<atomic>
+	<mutex>
+	<queue>
+	<cstdint>
+
+1755223360 c:\users\denni\onedrive\imágenes\treasurehunter\include\netplay.hpp
+	"net.hpp"
+	<string>
+	<functional>
+
+1755495077 source:c:\users\denni\videos\treasurehunter\src\game.cpp
+	"../include/game.hpp"
+	"../include/rng.hpp"
+
+1755493083 source:c:\users\denni\videos\treasurehunter\src\graph.cpp
+	"../include/graph.hpp"
+
+1755495720 source:c:\users\denni\videos\treasurehunter\src\main.cpp
+	"../include/game.hpp"
+	<cstring>
+	<cstdio>
+
+1755493083 source:c:\users\denni\videos\treasurehunter\src\net.cpp
+	"../include/net.hpp"
+	<cstring>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<sys/socket.h>
+	<unistd.h>
+	<netdb.h>
+
+1755493083 source:c:\users\denni\videos\treasurehunter\src\rng.cpp
+	"../include/rng.hpp"
+
+1755493083 source:c:\users\denni\videos\treasurehunter\src\ui.cpp
+	"../include/ui.hpp"
+
+1755496198 c:\users\denni\videos\treasurehunter\include\game.hpp
+	<raylib.h>
+	<raymath.h>
+	<cstdio>
+	<limits>
+	"types.hpp"
+	"graph.hpp"
+	"player.hpp"
+	"ui.hpp"
+	"netplay.hpp"
+	<string>
+
+1755493083 c:\users\denni\videos\treasurehunter\include\types.hpp
+	<raylib.h>
+	"config.hpp"
+
+1755493083 c:\users\denni\videos\treasurehunter\include\config.hpp
+
+1755493083 c:\users\denni\videos\treasurehunter\include\graph.hpp
+	<limits>
+	<raylib.h>
+	<raymath.h>
+	"config.hpp"
+	"types.hpp"
+
+1755493083 c:\users\denni\videos\treasurehunter\include\player.hpp
+	"types.hpp"
+
+1755493083 c:\users\denni\videos\treasurehunter\include\ui.hpp
+	<raylib.h>
+	<raymath.h>
+	"types.hpp"
+	"graph.hpp"
+
+1755493083 c:\users\denni\videos\treasurehunter\include\netplay.hpp
+	"net.hpp"
+	<string>
+	<functional>
+
+1755493083 c:\users\denni\videos\treasurehunter\include\net.hpp
+	<string>
+	<vector>
+	<thread>
+	<atomic>
+	<mutex>
+	<queue>
+	<cstdint>
+
+1755493083 c:\users\denni\videos\treasurehunter\include\rng.hpp
+	<cstdlib>
+
+1755493083 source:c:\users\denni\music\treasurehunter\src\graph.cpp
+	"../include/graph.hpp"
+
+1755493083 c:\users\denni\music\treasurehunter\include\graph.hpp
+	<limits>
+	<raylib.h>
+	<raymath.h>
+	"config.hpp"
+	"types.hpp"
+
+1755493083 c:\users\denni\music\treasurehunter\include\config.hpp
+
+1755493083 c:\users\denni\music\treasurehunter\include\types.hpp
+	<raylib.h>
+	"config.hpp"
+
+1755495720 source:c:\users\denni\music\treasurehunter\src\main.cpp
+	"../include/game.hpp"
+	<cstring>
+	<cstdio>
+
+1755654917 c:\users\denni\music\treasurehunter\include\game.hpp
+	<raylib.h>
+	<raymath.h>
+	<cstdio>
+	<limits>
+	"types.hpp"
+	"graph.hpp"
+	"player.hpp"
+	"ui.hpp"
+	"netplay.hpp"
+	"rng.hpp"
+	<string>
+
+1755493083 c:\users\denni\music\treasurehunter\include\player.hpp
+	"types.hpp"
+
+1755658197 c:\users\denni\music\treasurehunter\include\ui.hpp
+	<raylib.h>
+	<raymath.h>
+	"types.hpp"
+	"graph.hpp"
+
+1755520235 c:\users\denni\music\treasurehunter\include\netplay.hpp
+	"net.hpp"
+	<string>
+	<functional>
+	<sstream>
+	<vector>
+
+1755658231 c:\users\denni\music\treasurehunter\include\net.hpp
+	<string>
+	<vector>
+	<thread>
+	<atomic>
+	<mutex>
+	<queue>
+	<cstdint>
+
+1755493083 source:c:\users\denni\music\treasurehunter\src\net.cpp
+	"../include/net.hpp"
+	<cstring>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<sys/socket.h>
+	<unistd.h>
+	<netdb.h>
+
+1755493083 source:c:\users\denni\music\treasurehunter\src\rng.cpp
+	"../include/rng.hpp"
+
+1755658170 c:\users\denni\music\treasurehunter\include\rng.hpp
+	<cstdlib>
+
+1755493083 source:c:\users\denni\music\treasurehunter\src\ui.cpp
+	"../include/ui.hpp"
+
+1755655096 source:c:\users\denni\music\treasurehunter\src\game.cpp
+	"../include/game.hpp"
+	"../include/rng.hpp"
+	<cstring>
+
